@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+sentence-transformers
+ddgs
+tavily-python
+mcp
+langchain-groq
+mcp[client]
